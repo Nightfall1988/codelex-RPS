@@ -1,7 +1,7 @@
 <?php
 namespace App;
 
-class Symbol implements SymbolInterface
+class Symbol
 {
     private string $name;
 
